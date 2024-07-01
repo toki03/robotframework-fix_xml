@@ -3,7 +3,9 @@ Fixml is a tool to fix Robot Framework output files that are not properly finish
 
 
 ## Command line usage
-`python fix_xml.py example.xml fixed.xml`
+```
+python fix_xml.py example.xml fixed.xml
+```
 
 
 Fork from [fixml](https://bitbucket.org/robotframework/fixml "fixml")
